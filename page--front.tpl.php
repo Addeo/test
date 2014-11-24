@@ -12,7 +12,11 @@
   <script type="text/javascript">
 		$(document).ready(function() {
 			$('#fullpage').fullpage({
+<<<<<<< HEAD
                 scrollingSpeed: 13000,
+=======
+                scrollingSpeed: 1000,
+>>>>>>> 794d7be95c01cfcee142394e42da6c085e9d8a66
                 easing: 'easeOutQuart',
                 navigation: 'true',
                 navigationPosition: 'left'
