@@ -21,4 +21,9 @@
 ыв
 а
 ыва
+<<<<<<< HEAD
 pppppppsxcf
+=======
+xyu
+xyu
+>>>>>>> origin/master
